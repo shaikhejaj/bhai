@@ -359,3 +359,142 @@ git add shaikh.html
 gitls
 git ls
 ls lart
+git status
+git add --all
+git status
+git commit 
+git commit -a
+git status
+git add  modified:   bhai/jenkinsfile.html
+git add bhai/jenkinsfile.html
+git status
+git push
+git push --se-upstream origin master
+ git push --set-upstream origin master
+git remote
+git remote -v
+git status
+git track
+git repack
+git push
+git commit
+git branch
+git branch bhai
+git checkout bhai
+git add  .bash_history
+        .gitconfig
+git move 
+git ignore  .bash_history
+        .gitconfig
+git checkout -f
+git checkout bhai
+git remove .gitconfig
+git status
+git branch
+git checkout main
+git add  .gitconfig
+        NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+        ntuser.ini
+git checkout merge
+git clear
+clear
+git checkout
+git branch checkout
+git checkout bhai
+git commit .gitconfig
+git checkout bhai
+git status
+git add anas
+git add ans.hml
+git add simran.json
+git add mustafa.yml
+git status
+git add ans.xml
+git status
+git commit ans.xml
+git push
+ git push --set-upstream origin bhai
+git push origin 
+git remote -v
+git commit
+git add ans.xml
+git commit 
+git commit ans.xml
+git commit ans.xml
+git checkout -m
+git status bhai
+git add bhai/
+ git rm --cached bhai
+-f
+git -f
+ git rm --cached bhai -f
+git status
+git add simran.json
+echo "# bhai" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/shaikhejaj/bhai.git
+git push -u origin main
+echo "# ans" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/shaikhejaj/ans.git
+git push -u origin master
+git status
+git commit -a
+git pull
+git log
+git show <5f8ce9e9b40e7555f2222ba309fcdbbfeb02b34c>
+git pull
+git merge 
+git merge https://github.com/shaikhejaj/miyab.git
+git checkout -f
+git pull https://github.com/shaikhejaj/miyab.git
+git pullhttps://github.com/shaikhejaj/ans.git
+ls
+git status
+git diff
+git diff 
+git commit -m
+git commit -a
+git diff
+git commit -am
+git commit -am "second commit"
+git log
+git fetch
+git checkout branch bhai
+git merge origin
+git mv
+git mv[ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+        ntuser.ini
+git mv[ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms]
+git mv
+git rm
+git status
+git pull
+git fetch
+git pull
+git pull --rebase
+git add NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.
+git add NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}
+git reset 
+git reset --hard
+git commit 47d333b
+git add --all
+git git
+g
+ls
+git branch main
+git checkout -f
+git pull merge main
+git pull merge bhai
+git log
+it 
+git status
+git pull
+ls
+git log
