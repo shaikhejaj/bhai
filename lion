@@ -1,0 +1,12 @@
+import time
+import roratescreen
+
+screen = roratescreen.get_primary_display()
+
+def new_func():
+    return range
+
+for i new_func()(13):
+
+    time.sleep()
+    screen.rotate_to(i*90 % 360)
